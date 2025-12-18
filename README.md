@@ -1,7 +1,7 @@
 # url-crawler-tools-
 使用说明：
 
-确定安装Python 3.8+已。
+确定已安装Python 3.8+。
 
 安装依赖库： pip install httpx[http2] parsel （注意：如果是在 Windows 上运行，httpx[http2] 可能需要安装额外的编译工具，可以或者直接安装 pip install httpx parsel h2）
 
